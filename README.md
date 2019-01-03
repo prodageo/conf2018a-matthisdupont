@@ -1,2 +1,2 @@
-# matriceconf-10
+# matriceconf10
 Matrice du résumé d'une conférence
