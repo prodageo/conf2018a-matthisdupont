@@ -13,7 +13,7 @@
  - Audience : Environ 100 participants
  - Auteur du billet : Matthis DUPONT
  - Mots-clés : Unity 3D - jeu mobile - optimisation
- - Illustration : ![](image conf.png)
+ - Illustration : ![](conf-image.png)
 
 ## Support
 
